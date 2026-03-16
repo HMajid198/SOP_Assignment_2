@@ -1,0 +1,5 @@
+Person 1: SOAP Infrastructure & Dependencies (add dependencies, generate JAXB classes, publish WSDL files)
+
+Person 2: SOAP Endpoint Implementation (implement SOAP endpoints for operations, ensure correct functionality, test using SoapUI)
+
+Person 3: Inter-Service Communication & Testing (implement SOAP clients, ensure coexistence of REST and SOAP, end-to-end testing of SOAP functionality)
